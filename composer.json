@@ -5,7 +5,7 @@
   "keywords": ["silverstripe", "theme", "carbon-design-system"],
   "license": "BSD-3-Clause",
   "require": {
-    "heyday/silverstripe-menumanager": "~3.0.0"
+    "heyday/silverstripe-menumanager": "~4.0.0"
   },
   "extra": {
     "installer-name": "carbon",
